@@ -41,5 +41,6 @@ Link: https://docs.google.com/spreadsheets/d/1X-4ddk1ynoMqbpzT0hmn1qc08gk69YsfzS
 
 
 ## Dashboard
-<img width="769" alt="image" src="https://user-images.githubusercontent.com/68947631/215058705-f41624a1-1fb8-4647-990b-dd494e024c95.png">
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/68947631/215092646-9cb539b2-a902-4601-ac83-0274d96841b6.png">
+
 
