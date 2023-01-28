@@ -9,9 +9,6 @@ Objective 2: To suggest a KPI that can be used to pick stocks from different sec
 
 
 ## Tools Used:
-
-Google API
-
 Python Libraries - Gspread, Pandas
 
 Excel
