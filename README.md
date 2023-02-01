@@ -1,4 +1,5 @@
 # Investment-Advisor
+A collaborative project completed within a week by a group of 4 members.
 
 ## Objectives of the Project:
 
